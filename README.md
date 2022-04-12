@@ -8,7 +8,7 @@
 <h3 align="center">Computer Vision researcher from Ukraine passionate in developing AI-powered products for medicine</h3>
 
  
-- 🔭 I’m currently a CV research lead at [ML lab at UCU](https://apps.ucu.edu.ua/en/mllab/): OpenGlue - Open Source Pipeline for Image Matching | [Polyps Segmentation](https://github.com/ucuapps/Modified-MaskFormer-for-Polyps-Segmentation)
+- 🔭 CV research lead at [ML lab at UCU](https://apps.ucu.edu.ua/en/mllab/), working on : OpenGlue - Open Source Pipeline for Image Matching | [Polyps Segmentation](https://github.com/ucuapps/Modified-MaskFormer-for-Polyps-Segmentation)
 
 - 👨‍💻 I’m also a Deep Learning engineer in [BetterMedicine](https://www.bettermedicine.ai/)
 
