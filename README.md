@@ -9,7 +9,7 @@
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marichka-dobko" alt="marichka-dobko" /></a> </p>
  -->
-- 🔭 I’m currently working on OpenGlue - Open Source Pipeline for Image Matching | [Polyps Segmentation](https://github.com/ucuapps/Modified-MaskFormer-for-Polyps-Segmentation) 
+- 🔭 I’m currently working on OpenGlue - Open Source Pipeline for Image Matching & [Polyps Segmentation](https://github.com/ucuapps/Modified-MaskFormer-for-Polyps-Segmentation) 
 
 - 👨‍💻 I’m also a DL engineer in [BetterMedicine](https://www.bettermedicine.ai/)
 
