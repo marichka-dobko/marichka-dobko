@@ -6,10 +6,9 @@
 
 <h1 align="center">Hi 👋, I'm Maria</h1>
 <h3 align="center">Computer Vision researcher from Ukraine passionate in developing AI-powered products for medicine</h3>
-<!-- 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marichka-dobko" alt="marichka-dobko" /></a> </p>
- -->
-- 🔭 I’m currently working on OpenGlue - Open Source Pipeline for Image Matching, and [Polyps Segmentation](https://github.com/ucuapps/Modified-MaskFormer-for-Polyps-Segmentation)
+
+ 
+- 🔭 I’m currently a CV research lead at ML lab at UCU: OpenGlue - Open Source Pipeline for Image Matching | [Polyps Segmentation](https://github.com/ucuapps/Modified-MaskFormer-for-Polyps-Segmentation)
 
 - 👨‍💻 I’m also a DL engineer in [BetterMedicine](https://www.bettermedicine.ai/)
 
