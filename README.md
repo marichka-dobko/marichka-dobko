@@ -10,9 +10,9 @@
  
 - 🔭 I’m currently a CV research lead at ML lab at UCU: OpenGlue - Open Source Pipeline for Image Matching | [Polyps Segmentation](https://github.com/ucuapps/Modified-MaskFormer-for-Polyps-Segmentation)
 
-- 👨‍💻 I’m also a DL engineer in [BetterMedicine](https://www.bettermedicine.ai/)
+- 👨‍💻 I’m also a Deep Learning engineer in [BetterMedicine](https://www.bettermedicine.ai/)
 
-- 🧑‍🎓 Incoming grad student at [Cornell Tech](https://www.tech.cornell.edu/) - HelathTech Master's 
+- 🧑‍🎓 Incoming grad student at [Cornell Tech](https://www.tech.cornell.edu/) - HelthTech Master's program
 
 - 📝 I sometimes write articles on [Medium blog](https://medium.com/@dobko_m)
 
