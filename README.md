@@ -4,8 +4,10 @@
 <h3 align="center">Computer Vision researcher from Ukraine passionate in developing AI-powered products for medicine</h3>
 
 - 🧑‍🎓 Masters student at [Cornell Tech](https://www.tech.cornell.edu/) - HelthTech program
- 
- - 📝 I sometimes write articles on [Medium blog](https://medium.com/@dobko_m)
+
+- 🔬 Lab assistant at Biomedical imaging group spanning Cornell Tech and Weill Cornell Medicine Radiology
+
+- 📝 I sometimes write articles on [Medium blog](https://medium.com/@dobko_m)
  
 Recently:
 - 🔭 CV research lead at [ML lab at UCU](https://apps.ucu.edu.ua/en/mllab/), working on : [OpenGlue - Open Source Pipeline for Image Matching](https://github.com/ucuapps/OpenGlue) | [Polyps Segmentation](https://github.com/ucuapps/Modified-MaskFormer-for-Polyps-Segmentation)
