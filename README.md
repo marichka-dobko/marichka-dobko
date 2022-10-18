@@ -32,7 +32,7 @@ Recently:
 <a href="https://twitter.com/dobkomaria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dobkomaria" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/maria-dobko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maria-dobko" height="30" width="40" /></a>
 <a href="https://medium.com/@dobko_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dobko_m" height="30" width="40" /></a>
- <a href="https://scholar.google.com/citations?user=MMeux8MAAAAJ&hl=en" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AGoogle_Scholar_logo.svg&psig=AOvVaw0Mis1WsqutelSuJ3TsBRmS&ust=1666215063085000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJi84vnc6voCFQAAAAAdAAAAABAD" alt="@dobko_m" height="30" width="40" /></a>
+ <a href="https://scholar.google.com/citations?user=MMeux8MAAAAJ&hl=en" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="@dobko_m" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
