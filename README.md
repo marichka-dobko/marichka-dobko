@@ -12,7 +12,7 @@
 Recently:
 - 🔭 CV research lead at [ML lab at UCU](https://apps.ucu.edu.ua/en/mllab/), working on : [OpenGlue - Open Source Pipeline for Image Matching](https://github.com/ucuapps/OpenGlue) | [Polyps Segmentation](https://github.com/ucuapps/Modified-MaskFormer-for-Polyps-Segmentation)
 
-- 👨‍💻 I’m also a Deep Learning engineer in [BetterMedicine](https://www.bettermedicine.ai/)
+- 👨‍💻 Deep Learning engineer in [BetterMedicine](https://www.bettermedicine.ai/)
 
 
 ## Publications
