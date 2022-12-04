@@ -3,7 +3,7 @@
 
 <h3 align="center">Computer Vision researcher from Ukraine passionate in developing AI-powered products for medicine</h3>
 
-- 🧑‍🎓 Masters student at [Cornell Tech](https://www.tech.cornell.edu/) - HelthTech program
+- 🧑‍🎓 Masters student at [Cornell](https://www.tech.cornell.edu/) - HelthTech program, NYC campus
 
 - 🔬 Lab assistant at Biomedical imaging group spanning Cornell Tech and Weill Cornell Medicine Radiology
 
