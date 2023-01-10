@@ -1,6 +1,3 @@
-<!-- [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://vshymanskyy.github.io/StandWithUkraine) -->
-
-
 <h3 align="center">Computer Vision researcher from Ukraine passionate in developing AI-powered products for medicine</h3>
 
 - 🔬 Lab assistant at Biomedical imaging group spanning Cornell Tech and Weill Cornell Medicine Radiology
