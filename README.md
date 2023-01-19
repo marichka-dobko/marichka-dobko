@@ -1,6 +1,6 @@
 <h3 align="center">Computer Vision researcher from Ukraine passionate in developing AI-powered products for medicine</h3>
 
-- 🔬 Lab assistant at Biomedical imaging group spanning Cornell Tech and Weill Cornell Medicine Radiology
+- 🔬 Research assistant at Biomedical imaging group spanning Cornell Tech and Weill Cornell Medicine Radiology
 
 - 🧑‍🎓 Masters student at [Cornell](https://www.tech.cornell.edu/) - HelthTech program, NYC campus
 
