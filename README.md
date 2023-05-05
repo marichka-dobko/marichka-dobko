@@ -5,6 +5,7 @@
 - 🧑‍🎓 Masters student at [Cornell](https://www.tech.cornell.edu/) - HelthTech program, NYC campus
 
 - 📝 I sometimes write articles on [Medium blog](https://medium.com/@dobko_m)
+- :yt:  My [Youtube](https://www.youtube.com/channel/UCyUohU13Vi2FDwGLdgMtDBA)
  
 Recently:
 - 🔭 CV research lead at [ML lab at UCU](https://apps.ucu.edu.ua/en/mllab/), working on : [OpenGlue - Open Source Pipeline for Image Matching](https://github.com/ucuapps/OpenGlue) | [Polyps Segmentation](https://github.com/ucuapps/Modified-MaskFormer-for-Polyps-Segmentation)
