@@ -1,7 +1,7 @@
 <h3 align="center">Computer Vision researcher from Ukraine passionate in developing AI-powered products for medicine</h3>
 
 
-- 🫀 Cleerly - Data Science [May - Currently]
+- 🫀 Cleerly - Data Science [May 2023 - Currently]
 
 - 🔬 Graduate Student Researcher at Biomedical imaging group spanning Cornell Tech and Weill Cornell Medicine Radiology
 
