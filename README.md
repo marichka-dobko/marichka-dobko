@@ -1,7 +1,5 @@
 <h3 align="center">Computer Vision researcher from Ukraine passionate in developing AI-powered products for medicine</h3>
 
-Learning Unreal Engine 5, and building projects with LLMs in my free time
-
 
 - 🫀 Cleerly - Data Science [May - Currently]
 
