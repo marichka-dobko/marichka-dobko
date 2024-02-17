@@ -12,9 +12,12 @@
 - My [Youtube](https://www.youtube.com/channel/UCyUohU13Vi2FDwGLdgMtDBA)
 
 ## Recent projects
+- **InsureGPT** - Best use of MongoDB and Cohere awards at NYC AI Hackathon
+  An LLM-based assistant that matches patient’s needs to the health policy. We scrapped and parsed over 100 PDFs and built a health insurance policy matcher.
+- **Simplicaid** - Best Healthcare LLM Solution and 2nd Best Overall award at LlamaHack
+  Simplicaid automates the Medicaid application process by pre-filling lengthy PDF form using user-provided documents, LLMs and OCR
 - **Airocare** - Grand Prize Winner of Johnson & Johnson + Weill Cornell New York Health Hackathon
   A tool for analysis of breathing patterns and generation of meaningful insights for asthma patients. [Video](https://www.youtube.com/watch?v=ASEi8pnSnYM)
-
 
 
 ## Publications
