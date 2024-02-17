@@ -3,22 +3,22 @@
 
 - 🫀 Cleerly - Data Science [May 2023 - Currently]
 
-- 🔬 Graduate Student Researcher at Biomedical imaging group spanning Cornell Tech and Weill Cornell Medicine Radiology
+- 🔬 Graduate Student Researcher at Biomedical imaging group spanning Cornell Tech and Weill Cornell Medicine Radiology [Sep 2022 - May 2023]
 
-- 🧑‍🎓 Masters student at [Cornell](https://www.tech.cornell.edu/) - HelthTech program, NYC campus
+- 🧑‍🎓 Masters student at [Cornell Tech](https://www.tech.cornell.edu/) - HelthTech program, NYC campus
   
-- Graduated with BSc in Computer Science from Ukrainian Catholic University
+- BSc in Computer Science from Ukrainian Catholic University
 
  
 
 - 📝 I sometimes write articles on [Medium blog](https://medium.com/@dobko_m)
 
 - My [Youtube](https://www.youtube.com/channel/UCyUohU13Vi2FDwGLdgMtDBA)
- 
-Recently:
-- 🔭 CV research lead at [ML lab at UCU](https://apps.ucu.edu.ua/en/mllab/), working on : [OpenGlue - Open Source Pipeline for Image Matching](https://github.com/ucuapps/OpenGlue) | [Polyps Segmentation](https://github.com/ucuapps/Modified-MaskFormer-for-Polyps-Segmentation)
 
-- 👨‍💻 Deep Learning engineer in [BetterMedicine](https://www.bettermedicine.ai/)
+## Recent projects
+- **Airocare** - Grand Prize Winner of Johnson & Johnson + Weill Cornell New York Health Hackathon
+  A tool for analysis of breathing patterns and generation of meaningful insights for asthma patients. [Video](https://www.youtube.com/watch?v=ASEi8pnSnYM)
+
 
 
 ## Publications
