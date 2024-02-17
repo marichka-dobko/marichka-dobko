@@ -3,12 +3,8 @@
 
 - 🫀 Cleerly - Data Science [May 2023 - Currently]
 
-- 🔬 Graduate Student Researcher at Biomedical imaging group spanning Cornell Tech and Weill Cornell Medicine Radiology [Sep 2022 - May 2023]
-
 - 🧑‍🎓 Masters student at [Cornell Tech](https://www.tech.cornell.edu/) - HelthTech program, NYC campus
   
-- BSc in Computer Science from Ukrainian Catholic University
-
  
 
 - 📝 I sometimes write articles on [Medium blog](https://medium.com/@dobko_m)
