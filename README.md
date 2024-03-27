@@ -8,7 +8,7 @@
 - My [Youtube](https://www.youtube.com/channel/UCyUohU13Vi2FDwGLdgMtDBA)
 
 ## Recent projects
-- **Train with Type-1** - combining smart watch and Continous Glucose monitor readings to precisely predict low blood sugar during exercise. 
+- **Train with Type-1** - combining smart watch and Continous Glucose Monitor readings to precisely predict low blood sugar during exercise. 
 - **InsureGPT** - an LLM-based assistant that matches patient’s needs to the health policy. We scrapped and parsed over 100 PDFs and built a health insurance policy matcher.
 - **Simplicaid** - automates the Medicaid application process by pre-filling lengthy PDF form using user-provided documents, LLMs and OCR
 - **Airocare** - a tool for analysis of breathing patterns and generation of meaningful insights for asthma patients. [Video](https://www.youtube.com/watch?v=ASEi8pnSnYM)
