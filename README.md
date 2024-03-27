@@ -1,4 +1,4 @@
-<h3 align="center">Machine Learning engineer from Ukraine passionate in developing AI-powered products for medicine</h3>
+<h3 align="center">Machine Learning engineer from Ukraine passionate in developing AI-powered products</h3>
 
 - 🧑‍🎓 Masters student at [Cornell Tech](https://www.tech.cornell.edu/) - HelthTech program, NYC campus
    
