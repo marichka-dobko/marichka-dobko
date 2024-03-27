@@ -1,11 +1,7 @@
 <h3 align="center">Machine Learning engineer from Ukraine passionate in developing AI-powered products for medicine</h3>
 
-
-- 🫀 Cleerly - Data Science, part-time [May 2023 - February 2024]
-
 - 🧑‍🎓 Masters student at [Cornell Tech](https://www.tech.cornell.edu/) - HelthTech program, NYC campus
-  
- 
+   
 
 - 📝 I sometimes write articles on [Medium blog](https://medium.com/@dobko_m)
 
@@ -15,6 +11,17 @@
 - **InsureGPT** - an LLM-based assistant that matches patient’s needs to the health policy. We scrapped and parsed over 100 PDFs and built a health insurance policy matcher.
 - **Simplicaid** - automates the Medicaid application process by pre-filling lengthy PDF form using user-provided documents, LLMs and OCR
 - **Airocare** - a tool for analysis of breathing patterns and generation of meaningful insights for asthma patients. [Video](https://www.youtube.com/watch?v=ASEi8pnSnYM)
+
+
+## Work experience 
+- 🫀 Cleerly - Data Science, part-time [May 2023 - February 2024]
+- 🔬 ML research lab @ Cornell Tech - Grad student researcher, part-time [September 2022 - May 2023]
+- 🩻 Better Medicine - Deep Learning Engineer, part-time [March 2022 - July 2022]
+- 🔍 ML lab @ Ukrainian Catholic University - Computer Vision Researcher [July 2021 - June 2022]
+- 💻 SoftServe - Machine Learning Engineer [July 2019 - July 2021]
+- 🌐 ELEKS - Data Scientist, part-time [July 2018 - January 2019]
+- 📊 Captain Growth - Junior Data Scientist, part-time [January 2018 - June 2018]
+- 📷 Septa agency - Data Science Intern, part-time [September 2018 - January 2018]
 
 
 ## Publications
