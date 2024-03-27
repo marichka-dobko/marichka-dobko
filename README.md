@@ -1,7 +1,7 @@
 <h3 align="center">Machine Learning engineer from Ukraine passionate in developing AI-powered products for medicine</h3>
 
 
-- 🫀 Cleerly - Data Science [May 2023 - Currently]
+- 🫀 Cleerly - Data Science, part-time [May 2023 - February 2024]
 
 - 🧑‍🎓 Masters student at [Cornell Tech](https://www.tech.cornell.edu/) - HelthTech program, NYC campus
   
