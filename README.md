@@ -1,6 +1,6 @@
 <h3 align="center">Machine Learning engineer from Ukraine passionate in developing AI-powered products</h3>
 
-- Currently focusing on Gen AI and interested in multimodality
+- Currently focusing on graphs, cybersecurity, Gen AI and interested in multimodality
 
 - 🧑‍🎓 Masters student at [Cornell Tech](https://www.tech.cornell.edu/) - HelthTech program, NYC campus
    
