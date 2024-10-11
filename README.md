@@ -17,6 +17,7 @@
 
 
 ## Work experience 
+- 🔒 **Illumio - Applied ML Scientist** [July 2024 - Current]
 - 🫀 Cleerly - Data Science, part-time [May 2023 - February 2024]
 - 🔬 ML research lab @ Cornell Tech - Grad student researcher, part-time [September 2022 - May 2023]
 - 🩻 Better Medicine - Deep Learning Engineer, part-time [March 2022 - July 2022]
