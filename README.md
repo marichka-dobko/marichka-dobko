@@ -1,9 +1,10 @@
 <h3 align="center">Machine Learning engineer from Ukraine passionate in developing AI-powered products</h3>
 
-- Currently focusing on graphs, cybersecurity, Gen AI and interested in multimodality
+- Currently focusing on Gen AI, graphs, cybersecurity, and interested in multimodality
 
-- 🧑‍🎓 Masters student at [Cornell Tech](https://www.tech.cornell.edu/) - HelthTech program, NYC campus
-   
+- 🧑‍🎓 Grad school alumni at [Cornell Tech](https://www.tech.cornell.edu/) - HelthTech program, NYC campus
+
+- 🧑‍🎓 UCU Computer Science alumni
 
 - 📝 I sometimes write articles on [Medium blog](https://medium.com/@dobko_m)
 
